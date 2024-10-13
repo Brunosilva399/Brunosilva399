@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ### Olá! Eu sou o Bruno Silva 🖐🏻
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/bruno-silva-3672082a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
