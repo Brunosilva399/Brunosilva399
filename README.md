@@ -1,17 +1,28 @@
 
 ### Olá! Eu sou o Bruno Silva 🖐🏻
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-3672082a5)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunosilva399&show-icons=true&theme=tokyonight)
-
-## Tecnologias que eu uso no meu dia 
-
-<div style="display: inline_block"><br/>
-<img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="html" src="https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img align="center" alt="html" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="html" src="https://img.shields.io/badge/Saas-CC6699?style=for-the-badge&logo=saas&logoColor=white"/>
-
+<div>
+  <a href="https://beacons.ai/brunosilva399">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosilva399&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosilva399&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
+    
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Bruno-Saas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="Bruno-Saas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Bruno-Saas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+</div>
+
+## Conect with me!
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-silva-3672082a5)
+[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](https://brunoalvesdasilva399@gmail.com)
+
+
+
+
+
+
+
 
 
